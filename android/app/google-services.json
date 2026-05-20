@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525095663416",
+    "project_id": "smart-vision-assist-74033",
+    "storage_bucket": "smart-vision-assist-74033.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525095663416:android:9a638076b5f8f3ecd3f3cd",
+        "android_client_info": {
+          "package_name": "com.example.smart_vision_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdvcpW-v8Tjp5Q-4uaO-JKN2w7KtpxZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

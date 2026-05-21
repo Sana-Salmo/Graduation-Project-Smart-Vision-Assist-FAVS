@@ -35,3 +35,10 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+## Demo Video
+
+A full project presentation video is available through the link below.  
+The video includes the graduation project slides, system explanation, screenshots, and demo videos showing the application features.
+
+[Watch the Smart Vision Assist (FAVS) Demo Video](https://drive.google.com/drive/folders/153vXsETtsH_mxVvMae506TS3Sf5EIy2N?usp=sharing)
